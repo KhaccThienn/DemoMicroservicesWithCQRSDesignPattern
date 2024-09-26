@@ -1,0 +1,6 @@
+@MicroservicesWithCQRSDesignPattern_HostAddress = http://localhost:5090
+
+GET {{MicroservicesWithCQRSDesignPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
